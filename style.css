@@ -2,16 +2,9 @@
     margin: 0;
     padding: 0;
 }
-.wrapper {
-	overflow: hidden;
-	background-color: #111;
-}
-canvas {
-	display: block;
-}
 
 body{
-    background:#000000;
+    background:#0b1e06;
     color: white;
     font-family: system-ui;
 }
@@ -29,7 +22,7 @@ input{
     height: 30px;
     outline: none;
     border: none;
-    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.647);
     margin: 4px 0;
     border-radius: 4px;
     padding: 4px;
